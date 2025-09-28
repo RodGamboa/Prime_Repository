@@ -1,2 +1,3 @@
 # Prime_Repository
-primeiro repositorio
+Primeiro Repositorio do curso de Git e GitHub 
+
